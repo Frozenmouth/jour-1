@@ -21,9 +21,10 @@ ul {
 }
 
 .login {
-  margin-left: 20px;
+  margin-left: 5px;
   background-color: skyblue;
   padding: 5px 5px 5px 5px;
+  color: white;
 }
 
 .top-button {
